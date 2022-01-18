@@ -1,5 +1,5 @@
 # CorreoLocalPHP
-Formas básicas de enviar correo usando PHP con un servidor local.
+Enviar correo usando PHP con un servidor local.
 
 ## Descripción
 Estos archivos fueron subidos con la intención de poder ayudar a nuevos desarrolladores a realizar sus test o pruebas de correo de manera local.
