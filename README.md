@@ -5,7 +5,7 @@ Formas básicas de enviar correo usando PHP con un servidor local.
 Estos archivos fueron subidos con la intención de poder ayudar a nuevos desarrolladores a realizar sus test o pruebas de correo de manera local.
 
 # Instalación
-Para poder usar de manera adecuada, cualquiera de los archivos para enviar correo usando PHP con un servidor local, es necesario contar con ciertas herramientas:
+Para poder usar de manera adecuada, cualquiera de los archivos para enviar correo usando PHP con un servidor local, es necesario contar con las siguientes herramientas:
 - Un Gestor de Base de Datos.
 - Un Servidor de Correo Local (para realizar los tests).
 - Un navegador.
