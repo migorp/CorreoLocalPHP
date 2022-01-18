@@ -51,5 +51,5 @@ Las contribuciones, sugerencias, dudas, inquietudes relacionadas a este proyecto
 - Mi lugar de trabajo: [LanCenter](https://www.facebook.com/LanCenter.ec)
 - Mi alma máter: [Uniandes](https://uniandes.edu.ec/)
 
-## License
+## Licencia
 [DOMINIO PÚBLICO](https://choosealicense.com/licenses/unlicense/)
